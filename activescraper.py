@@ -12,9 +12,10 @@ url = r'https://crowdcapacity.net/'
 driver.get(url)
 driver.implicitly_wait(2)
 lines = driver.find_elements(By.CSS_SELECTOR,"span[style='display: flex; align-items: center; justify-content: center;'][class='badge-light badge bg-success sgds']")
-for line in lines:
-    print(line.text)
+yishuncap = lines[-2].text
+print(f'Yishun Gym capacity: {yishuncap}')
 driver.quit()
+
 
 
 
