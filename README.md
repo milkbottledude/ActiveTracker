@@ -5,6 +5,7 @@
 
 ## Overview 🔍
 This project will track the capacity of Yishun Activesg gym over a few days to see which day and time is it least packed. This will allow us to see when is the best time to go there for a workout.
+
 I plan to base how crowded the gym is based on these variables:
 - Day 📅 (Mon, Tue, etc) 
 - Time 🕒 (0900, 1800, etc)
