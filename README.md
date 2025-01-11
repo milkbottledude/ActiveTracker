@@ -14,6 +14,8 @@ I plan to base how crowded the gym is based on these variables:
 - School holiday 🏖️ (Poly hols period, Pri Sch hols period, etc)
 
 ### Announcement: 
-Unfortunately the [ActiveSG gym capacity website](https://crowdcapacity.net/) doesnt allow scraping from not only Google CLoud servers, but also PythonAnywhere servers. This makes mass scraping of the site's information unfeasible, hence i can no longer continue this project unless i manually activate my code on my laptop every half an hour for a year. Mission failed, sorry...
+Unfortunately, the [ActiveSG gym capacity website](https://crowdcapacity.net/) doesnt allow scraping from not only Google CLoud servers, but also PythonAnywhere servers. 
+
+This makes mass scraping of the site's information unfeasible, hence i can no longer continue this project unless i manually activate my code on my laptop every half an hour for a year. Mission failed, sorry...
 
 Its still possible to scrape through a proxy, but that would probably be illegal and I'm not trying to get arrested. This website aside, the code works fine for any website that does not block the cloud servers, so feel free to use it.
