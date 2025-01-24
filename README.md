@@ -17,7 +17,7 @@ Edit: PythonAnywhere does not allow access to Activesg's gym capacity website un
 
 Edit 2: After some research, we will use google cloud run instead of PythonAnywhere. Despite paying for PythonAnywhere, its servers are not based in Singapore, so scraping requests are blocked anyway. With google cloud run, we can scrape locally from Singapore region.
 
-### Announcement: 
+### Discontinuation Announcement: 
 Unfortunately, the [ActiveSG gym capacity website](https://crowdcapacity.net/) doesnt allow scraping from not only Google CLoud servers, but also PythonAnywhere servers. 
 
 This makes mass scraping of the site's information unfeasible, hence i can no longer continue this project unless i manually activate my code on my laptop every half an hour for a year. Mission failed, sorry...
