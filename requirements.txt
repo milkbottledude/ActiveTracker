@@ -1,0 +1,4 @@
+pandas
+selenium
+chromedriver-binary==129.0.6668.100
+google-cloud-storage
